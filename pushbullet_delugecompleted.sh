@@ -1,6 +1,6 @@
 #!/bin/bash
 
-API="v1xw7fbHLzwFGyDjQzZi95XNYCG74JKU7PujCVGNCyYs8"
+API=#enter api here
 torrentid=$1
 torrentname=$2
 torrentpath=$3
